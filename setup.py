@@ -13,7 +13,7 @@ setup(
     packages=['restclient'],
     url='https://github.com/zakharovyn/restclient.git',
     license='MIT',
-    author='yanzaharov',
+    author='yanzakharov',
     author_email='-',
     install_requires=REQUIRES,
     description='restclient with allure and logger'
