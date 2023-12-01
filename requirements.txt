@@ -1,0 +1,4 @@
+requests
+structlog
+curlify
+allure-pytest
